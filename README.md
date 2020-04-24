@@ -22,9 +22,9 @@ Teşekkürler
 
 Ekibimiz
 ========
- * Halil İbrahim Özercan
- * Alim Şükrücan Gökkaya
- * Can Alkan
+ * [Halil İbrahim Özercan](https://www.linkedin.com/in/halilozercan/?originalSubdomain=tr)
+ * [Alim Şükrücan Gökkaya](https://alimgokkaya.com/)
+ * [Can Alkan](http://cs.bilkent.edu.tr/~calkan/)
  
 Dizi sağlayıcıları
 ==================
