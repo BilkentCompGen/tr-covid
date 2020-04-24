@@ -1,7 +1,7 @@
 Bu sayfada Türkiye’deki SARS-CoV-2 virüs dizilerinin özetini sunuyoruz:
 =======================================================================
 
- * [Filogenetik analiz için tıklayın.](http://covid19.alkanlab.org/ncov?r=city)
+ * [Filogenetik analiz için tıklayın.](http://covid19.alkanlab.org/ncov?c=city&r=city)
  * Türkiye’deki virüs dizilerinin filogenetik analizi [Auspice](https://github.com/nextstrain/auspice) kullanılarak hazırlanmıştır. 
  * Ağaç [GISAID](https://www.gisaid.org/)'de yayınlanan Türkiye'den virüsler ile birlikte Çin'den 4 virüs genomu ile hazırlanmıştır. 
  * Neighbor-Joining yöntemi ile oluşturulan ağaç için 1000 bootstrap tekrarı yapılmıştır.
@@ -11,12 +11,12 @@ Bu sayfada Türkiye’deki SARS-CoV-2 virüs dizilerinin özetini sunuyoruz:
 Çıktılar
 ========
 
- * [Auspice ile oluşturulan filogenetik analiz](http://covid19.alkanlab.org/ncov?r=city)
+ * [Auspice ile oluşturulan filogenetik analiz](http://covid19.alkanlab.org/ncov?c=city&r=city)
  * [Neighbor Joining yöntemi ile oluşturulan filogenetik ağaç](https://github.com/BilkentCompGen/tr-covid/blob/master/tr-nj.pdf)
 	* [Üstteki ağacın Newick formatındaki dosyası](https://github.com/BilkentCompGen/tr-covid/blob/master/tr-nj.phb)
 	* Üstteki ağacın PNG formatındaki resmi: 
 
-![NJ Ağaç](https://github.com/BilkentCompGen/tr-covid/blob/master/tr-nj.png" NJ Ağaç")
+![NJ Ağaç](https://github.com/BilkentCompGen/tr-covid/blob/master/tr-nj.png "NJ Ağaç")
 
 
 Lütfen dikkat

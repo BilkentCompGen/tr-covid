@@ -1,263 +1,97 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<phyloxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.20/phyloxml.xsd" xmlns="http://www.phyloxml.org">
-<phylogeny rooted="true" rerootable="true">
-  <clade>
-    <clade>
-      <name>Pangolin</name>
-      <branch_length>0.0492</branch_length>
-    </clade>
-    <clade>
-      <branch_length>0.0492</branch_length>
-      <clade>
-        <branch_length>1.6E-4</branch_length>
-        <confidence type="unknown">423</confidence>
-        <clade>
-          <branch_length>0.0</branch_length>
-          <confidence type="unknown">216</confidence>
-          <clade>
-            <branch_length>0.0</branch_length>
-            <confidence type="unknown">122</confidence>
-            <clade>
-              <branch_length>0.0</branch_length>
-              <confidence type="unknown">124</confidence>
-              <clade>
-                <branch_length>0.0</branch_length>
-                <confidence type="unknown">128</confidence>
-                <clade>
-                  <branch_length>0.0</branch_length>
-                  <confidence type="unknown">364</confidence>
-                  <clade>
-                    <branch_length>0.0</branch_length>
-                    <confidence type="unknown">245</confidence>
-                    <clade>
-                      <branch_length>0.0</branch_length>
-                      <confidence type="unknown">4</confidence>
-                      <clade>
-                        <branch_length>0.0</branch_length>
-                        <confidence type="unknown">926</confidence>
-                        <clade>
-                          <branch_length>0.0</branch_length>
-                          <confidence type="unknown">923</confidence>
-                          <clade>
-                            <branch_length>0.0</branch_length>
-                            <confidence type="unknown">687</confidence>
-                            <clade>
-                              <branch_length>0.0</branch_length>
-                              <confidence type="unknown">280</confidence>
-                              <clade>
-                                <branch_length>0.0</branch_length>
-                                <clade>
-                                  <branch_length>0.0</branch_length>
-                                  <clade>
-                                    <branch_length>0.0</branch_length>
-                                    <clade>
-                                      <branch_length>0.0</branch_length>
-                                      <clade>
-                                        <branch_length>0.0</branch_length>
-                                        <clade>
-                                          <branch_length>0.0</branch_length>
-                                          <confidence type="unknown">100</confidence>
-                                          <clade>
-                                            <name>hCoV-19/Turkey/HSGM-5711/2020</name>
-                                            <branch_length>0.0</branch_length>
-                                          </clade>
-                                          <clade>
-                                            <branch_length>0.0</branch_length>
-                                            <confidence type="unknown">54</confidence>
-                                            <clade>
-                                              <name>hCoV-19/Turkey/HSGM-8964/2020</name>
-                                              <branch_length>0.0</branch_length>
-                                            </clade>
-                                            <clade>
-                                              <name>hCoV-19/Turkey/HSGM-8975/2020</name>
-                                              <branch_length>0.0</branch_length>
-                                            </clade>
-                                          </clade>
-                                        </clade>
-                                        <clade>
-                                          <name>hCoV-19/Turkey/HSGM-8968/2020</name>
-                                          <branch_length>0.0</branch_length>
-                                        </clade>
-                                      </clade>
-                                      <clade>
-                                        <name>hCoV-19/Turkey/HSGM-4701/2020</name>
-                                        <branch_length>0.0</branch_length>
-                                      </clade>
-                                    </clade>
-                                    <clade>
-                                      <name>hCoV-19/Turkey/HSGM-4505/2020</name>
-                                      <branch_length>0.0</branch_length>
-                                    </clade>
-                                  </clade>
-                                  <clade>
-                                    <name>hCoV-19/Turkey/HSGM-8001/2020</name>
-                                    <branch_length>0.0</branch_length>
-                                  </clade>
-                                </clade>
-                                <clade>
-                                  <branch_length>0.0</branch_length>
-                                  <clade>
-                                    <name>hCoV-19/Turkey/HSGM-5602/2020</name>
-                                    <branch_length>0.0</branch_length>
-                                  </clade>
-                                  <clade>
-                                    <name>hCoV-19/Turkey/HSGM-10241/2020</name>
-                                    <branch_length>0.0</branch_length>
-                                  </clade>
-                                </clade>
-                              </clade>
-                              <clade>
-                                <branch_length>0.0</branch_length>
-                                <clade>
-                                  <name>hCoV-19/Turkey/HSGM-5624/2020</name>
-                                  <branch_length>0.0</branch_length>
-                                </clade>
-                                <clade>
-                                  <name>hCoV-19/Turkey/HSGM-8003/2020</name>
-                                  <branch_length>0.0</branch_length>
-                                </clade>
-                              </clade>
-                            </clade>
-                            <clade>
-                              <name>hCoV-19/Turkey/HSGM-4236/2020</name>
-                              <branch_length>0.0</branch_length>
-                            </clade>
-                          </clade>
-                          <clade>
-                            <name>hCoV-19/Turkey/HSGM-5769/2020</name>
-                            <branch_length>1.4E-4</branch_length>
-                          </clade>
-                        </clade>
-                        <clade>
-                          <branch_length>0.0</branch_length>
-                          <confidence type="unknown">592</confidence>
-                          <clade>
-                            <branch_length>0.0</branch_length>
-                            <confidence type="unknown">840</confidence>
-                            <clade>
-                              <name>hCoV-19/Turkey/GLAB-CoV008/2020</name>
-                              <branch_length>0.0</branch_length>
-                            </clade>
-                            <clade>
-                              <name>hCoV-19/Turkey/GLAB-CoV012/2020</name>
-                              <branch_length>0.0</branch_length>
-                            </clade>
-                          </clade>
-                          <clade>
-                            <name>hCoV-19/Turkey/HSGM-7718/2020</name>
-                            <branch_length>0.0</branch_length>
-                          </clade>
-                        </clade>
-                      </clade>
-                      <clade>
-                        <name>hCoV-19/Turkey/HSGM-4706/2020</name>
-                        <branch_length>0.0</branch_length>
-                      </clade>
-                    </clade>
-                    <clade>
-                      <name>hCoV-19/Turkey/HSGM-8970/2020</name>
-                      <branch_length>0.0</branch_length>
-                    </clade>
-                  </clade>
-                  <clade>
-                    <branch_length>1.0E-4</branch_length>
-                    <confidence type="unknown">422</confidence>
-                    <clade>
-                      <branch_length>0.0</branch_length>
-                      <confidence type="unknown">93</confidence>
-                      <clade>
-                        <name>hCoV-19/Turkey/HSGM-8979/2020</name>
-                        <branch_length>0.0</branch_length>
-                      </clade>
-                      <clade>
-                        <name>hCoV-19/Turkey/HSGM-11520/2020</name>
-                        <branch_length>0.0</branch_length>
-                      </clade>
-                    </clade>
-                    <clade>
-                      <name>hCoV-19/Turkey/HSGM-8990/2020</name>
-                      <branch_length>0.0</branch_length>
-                    </clade>
-                  </clade>
-                </clade>
-                <clade>
-                  <branch_length>0.0</branch_length>
-                  <confidence type="unknown">21</confidence>
-                  <clade>
-                    <branch_length>0.0</branch_length>
-                    <confidence type="unknown">329</confidence>
-                    <clade>
-                      <name>hCoV-19/Turkey/ERAGEM-001/2020</name>
-                      <branch_length>0.0</branch_length>
-                    </clade>
-                    <clade>
-                      <branch_length>0.0</branch_length>
-                      <confidence type="unknown">463</confidence>
-                      <clade>
-                        <name>hCoV-19/Turkey/HSGM-5516/2020</name>
-                        <branch_length>2.0E-4</branch_length>
-                      </clade>
-                      <clade>
-                        <branch_length>0.0</branch_length>
-                        <confidence type="unknown">27</confidence>
-                        <clade>
-                          <branch_length>0.0</branch_length>
-                          <confidence type="unknown">2</confidence>
-                          <clade>
-                            <name>hCoV-19/Turkey/HSGM-8010/2020</name>
-                            <branch_length>0.0</branch_length>
-                          </clade>
-                          <clade>
-                            <branch_length>0.0</branch_length>
-                            <confidence type="unknown">30</confidence>
-                            <clade>
-                              <name>hCoV-19/Turkey/HSGM-4598/2020</name>
-                              <branch_length>0.0</branch_length>
-                            </clade>
-                            <clade>
-                              <name>hCoV-19/Turkey/HSGM-11518/2020</name>
-                              <branch_length>0.0</branch_length>
-                            </clade>
-                          </clade>
-                        </clade>
-                        <clade>
-                          <name>hCoV-19/Turkey/HSGM-8992/2020</name>
-                          <branch_length>0.0</branch_length>
-                        </clade>
-                      </clade>
-                    </clade>
-                  </clade>
-                  <clade>
-                    <name>hCoV-19/Turkey/HSGM-5770/2020</name>
-                    <branch_length>1.1E-4</branch_length>
-                  </clade>
-                </clade>
-              </clade>
-              <clade>
-                <name>Wuhan-Hu-1/2019</name>
-                <branch_length>0.0</branch_length>
-              </clade>
-            </clade>
-            <clade>
-              <name>2019-nCoV/WHU02</name>
-              <branch_length>0.0</branch_length>
-            </clade>
-          </clade>
-          <clade>
-            <name>2019-nCoV/WHU01</name>
-            <branch_length>0.0</branch_length>
-          </clade>
-        </clade>
-        <clade>
-          <name>BetaCoV/Wuhan/WH-01/2019</name>
-          <branch_length>0.0</branch_length>
-        </clade>
-      </clade>
-      <clade>
-        <name>hCoV-19/Turkey/GLAB-CoV013/2020</name>
-        <branch_length>0.0</branch_length>
-      </clade>
-    </clade>
-  </clade>
-</phylogeny>
-</phyloxml>
+(
+(
+(
+(
+(
+(
+(
+(
+(
+(
+(
+(
+(
+(
+(
+MT084071.1:0.09840,
+hCoV-19/Turkey/GLAB-CoV013/2020:0.00000)
+:0.00016[423],
+BetaCoV/Wuhan/WH-01/2019:0.00000)
+:0.00000[216],
+2019-nCoV/WHU01:0.00000)
+:0.00000[122],
+2019-nCoV/WHU02:0.00000)
+:0.00000[124],
+Wuhan-Hu-1/2019:0.00000)
+:0.00000[128],
+(
+(
+hCoV-19/Turkey/ERAGEM-001/2020:0.00000,
+(
+hCoV-19/Turkey/HSGM-5516/2020:0.00020,
+(
+(
+hCoV-19/Turkey/HSGM-8010/2020:0.00000,
+(
+hCoV-19/Turkey/HSGM-4598/2020:0.00000,
+hCoV-19/Turkey/HSGM-11518/2020:0.00000)
+:0.00000[30])
+:0.00000[2],
+hCoV-19/Turkey/HSGM-8992/2020:0.00000)
+:0.00000[27])
+:0.00000[463])
+:0.00000[329],
+hCoV-19/Turkey/HSGM-5770/2020:0.00011)
+:0.00000[21])
+:0.00000[364],
+(
+(
+hCoV-19/Turkey/HSGM-8979/2020:0.00000,
+hCoV-19/Turkey/HSGM-11520/2020:0.00000)
+:0.00000[93],
+hCoV-19/Turkey/HSGM-8990/2020:0.00000)
+:0.00010[422])
+:0.00000[245],
+hCoV-19/Turkey/HSGM-8970/2020:0.00000)
+:0.00000[4],
+hCoV-19/Turkey/HSGM-4706/2020:0.00000)
+:0.00000[926],
+(
+(
+hCoV-19/Turkey/GLAB-CoV008/2020:0.00000,
+hCoV-19/Turkey/GLAB-CoV012/2020:0.00000)
+:0.00000[840],
+hCoV-19/Turkey/HSGM-7718/2020:0.00000)
+:0.00000[592])
+:0.00000[923],
+hCoV-19/Turkey/HSGM-5769/2020:0.00014)
+:0.00000[687],
+hCoV-19/Turkey/HSGM-4236/2020:0.00000)
+:0.00000[280],
+(
+hCoV-19/Turkey/HSGM-5624/2020:0.00000,
+hCoV-19/Turkey/HSGM-8003/2020:0.00000)
+:0.00000)
+:0.00000,
+(
+hCoV-19/Turkey/HSGM-5602/2020:0.00000,
+hCoV-19/Turkey/HSGM-10241/2020:0.00000)
+:0.00000)
+:0.00000,
+(
+(
+(
+(
+hCoV-19/Turkey/HSGM-5711/2020:0.00000,
+(
+hCoV-19/Turkey/HSGM-8964/2020:0.00000,
+hCoV-19/Turkey/HSGM-8975/2020:0.00000)
+:0.00000[54])
+:0.00000[100],
+hCoV-19/Turkey/HSGM-8968/2020:0.00000)
+:0.00000,
+hCoV-19/Turkey/HSGM-4701/2020:0.00000)
+:0.00000,
+hCoV-19/Turkey/HSGM-4505/2020:0.00000)
+:0.00000,
+hCoV-19/Turkey/HSGM-8001/2020:0.00000);
