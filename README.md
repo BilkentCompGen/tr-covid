@@ -49,4 +49,6 @@ Dizi sağlayıcıları
  * [Gen Era Diagnostik](https://www.gen-era.com.tr/)
  * [İstanbul Teknik Üniversitesi Genomik Laboratuvarı (GLAB)](http://glab.info.tr/)
 
+
+------
 [Kullanıcı girişi](http://covid19.alkanlab.org/app/)
