@@ -16,7 +16,7 @@ Bu sayfada Türkiye’deki SARS-CoV-2 virüs dizilerinin özetini sunuyoruz:
 	* [Üstteki ağacın Newick formatındaki dosyası](https://github.com/BilkentCompGen/tr-covid/blob/master/tr-nj.phb)
 	* Üstteki ağacın PNG formatındaki resmi: 
 
-![NJ Ağaç](https://github.com/BilkentCompGen/tr-covid/blob/master/tr-nj.png "NJ Ağaç")
+![NJ Ağaç](https://raw.githubusercontent.com/BilkentCompGen/tr-covid/master/tr-nj.png "NJ Ağaç")
 
 
 Lütfen dikkat
