@@ -30,7 +30,7 @@ Lütfen dikkat
 Teşekkürler
 ===========
 
- * Bu sayfadaki açıklamaların bir kısmı Berlin’deki  Institute for Virology at Charité Universitätsmedizin web sayfasından alınmıştır: https://civnb.info/sequences/.
+ * Bu sayfadaki açıklamaların bir kısmı Berlin’deki  Institute for Virology at Charité Universitätsmedizin [web sayfasından](https://civnb.info/sequences/) alınmıştır.
  * Burada kullanılan dizilerin detayları ve diziyi sağlayan kurumlar [metadata tablosunda](https://github.com/BilkentCompGen/tr-covid/blob/master/metadata.tsv) görülebilir.
  * [Trevor Bedford](https://bedford.io/team/trevor-bedford/), [Richard Neher](https://neherlab.org/richard-neher.html), ve [Nextstrain](https://nextstrain.org/ncov) takımına açık kaynak kodlu [auspice](https://github.com/nextstrain/auspice) ve [augur](https://github.com/nextstrain/augur) yazılımları için teşekkür ederiz. Ayrıca [James Hadfield](https://github.com/jameshadfield) ve ark. tarafından hazırlanan [Nextstrain: real-time tracking of pathogen evolution](https://academic.oup.com/bioinformatics/article/34/23/4121/5001388) makalesine bakınız. [Nextstrain](https://nextstrain.org/ncov) dünyadaki dizilenen tüm SARS-CoV-2 genomlarının analizini sağlamaktadır. 
 
