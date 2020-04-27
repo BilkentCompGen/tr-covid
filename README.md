@@ -23,7 +23,7 @@ Lütfen dikkat
 =============
 
  * Bu sayfa sadece Türkiye’de dizilenmiş virüslerin analizi için hazırlanmıştır. [GISAID](https://www.gisaid.org/) ve [Nextstrain](https://nextstrain.org/ncov) tarafından yapılan **tüm dünyada görülen virüslerin analizinin yerine geçmez**. 
- * Şu andaki elimizde bulunan virüs örneklem büyüklüğü önemli çıkarımlar yapmak için yeterli değildir. Örneklem arttıkça yapılmış olan analizlerin sonuçları da değişkenlk gösterebilir.
+ * Şu anda elimizde bulunan virüs örneklem büyüklüğü önemli çıkarımlar yapmak için yeterli değildir. Örneklem arttıkça yapılmış olan analizlerin sonuçları da değişkenlik gösterebilir.
  * Genom analizleri bazen bir kaç kez tekrarlanan ve zaman alıcı işlemlerden oluşur. Bu nedenle burada gösterilen sonuçlar şu anki analizleri yansıtmaktadır ve zaman içinde değişiklik gösterebilir. 
  * Eğer kendi ürettiğiniz dizileme verilerini de bu sayfadaki analizlere dahil etmek istiyorsanız bizimle iletişime geçin.
 
