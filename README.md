@@ -4,7 +4,7 @@ Bu sayfada Türkiye’deki SARS-CoV-2 virüs dizilerinin özetini sunuyoruz:
  * [Filogenetik analiz için tıklayın.](http://covid19.alkanlab.org/ncov?c=city&r=city)
  * Türkiye’deki virüs dizilerinin filogenetik analizi [Auspice](https://github.com/nextstrain/auspice) kullanılarak hazırlanmıştır. 
  * Ağaç [GISAID](https://www.gisaid.org/)'de yayınlanan Türkiye'den virüsler ile birlikte Çin'den 4 virüs genomu ile hazırlanmıştır. 
- * Neighbor-Joining yöntemi ile oluşturulan ağaç için 1000 bootstrap tekrarı yapılmıştır.
+ * Neighbor-Joining yöntemi ile oluşturulan ağaç için 1000 bootstrap tekrarı yapılmıştır, ve pangolinden elde edilen virüs dış grup olarak kullanılmıştır.
  * Bütün diziler en az %95 tamamlanmıştır ve yüksek kalitelidir.
  * [GISAID](https://www.gisaid.org/)'den elde edilen veriler sadece [GISAID](https://www.gisaid.org/) web sayfasından indirilebilir. Ancak kullandığımız verilerin detayları ve teşekkür bilgisi [bu dosyadan](https://github.com/BilkentCompGen/tr-covid/blob/master/metadata.tsv) görülebilir. 
 
