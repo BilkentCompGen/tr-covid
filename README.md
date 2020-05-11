@@ -1,6 +1,8 @@
 Bu sayfada Türkiye’deki SARS-CoV-2 virüs dizilerinin özetini sunuyoruz:
 =======================================================================
 
+Son güncelleme: 11 Mayıs 2020
+
  * [Filogenetik analiz için tıklayın.](http://covid19.alkanlab.org/ncov?c=city&r=city)
  * Türkiye’deki virüs dizilerinin filogenetik analizi [Auspice](https://github.com/nextstrain/auspice) kullanılarak hazırlanmıştır. 
  * Ağaç [GISAID](https://www.gisaid.org/)'de yayınlanan Türkiye'den virüsler ile birlikte Çin'den 4 virüs genomu ile hazırlanmıştır. 
